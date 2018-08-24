@@ -1,6 +1,10 @@
 # 3.2 Windows10操作系统打印机驱动安装配置 {#1-windows7操作系统打印机驱动安装配置}
 
-前台打印机IP：192.168.10.35 A区打印机IP：192.168.10.36 打印机驱动位置：\192.168.10.33\Share\共享\driver\打印驱动中KONICA C364 for Windows7&10 用于Windows系统使用，将此文件夹拷贝到本地桌面。 同学们可根据入职后实际位置选择相对较近的打印机进行添加。 本事例已前台打印机为指导，如需添加A区打印机在IP地址处进行更换A区打印机IP地址即可。
+说明：前台打印机IP：192.168.10.35      A区打印机IP：192.168.10.36 
+
+打印机驱动位置：\192.168.10.33\Share\共享\driver\打印驱动   中KONICA C364 for Windows7&10 用于Windows系统使用，将此文件夹拷贝到本地桌面。 同学们可根据入职后实际位置选择相对较近的打印机进行添加。 
+
+本事例以前台打印机为指导，如需添加A区打印机在IP地址处进行更换A区打印机IP地址即可。
 
 1.打开Windows设置窗口，选择”设备”图标。![](https://ws4.sinaimg.cn/large/006tNc79ly1fj2w9hjkxwj31c20rwdjs.jpg)2.在添加打印机和扫描仪窗口，选择“添加打印机或扫描仪”选项。![](https://ws1.sinaimg.cn/large/006tNc79ly1fj2wa31amzj31c20t7jwf.jpg)3.在默认搜索时，选择“我需要的打印机不在列表中”选项。![](https://ws3.sinaimg.cn/large/006tNc79ly1fj2wb197nmj31c211t43z.jpg)4.在添加打印机窗口，选择“使用TCP/IP地址或主机名添加打印机”选项。选择“下一步”继续操作。![](https://ws4.sinaimg.cn/large/006tNc79ly1fj2wbc92upj31c20xa42x.jpg)5.在键入打印机主机名或IP地址窗口，在主机名或地址输入：192.168.10.35 取消“查询打印机并自动选择要使用的打印机驱动程序”勾选。选择“下一步”按钮![](https://ws1.sinaimg.cn/large/006tNc79ly1fj2wchnycxj31c20xa42x.jpg)
 
