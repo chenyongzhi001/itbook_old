@@ -6,7 +6,7 @@
 * [二、搜易贷统一认证授权管理系统授权申请](2.md)
 * [三、办公室打印配置方法](3.md)
   * [3.1 Windows7操作系统打印机驱动安装配置](3/1.md)
-  * [Windows10操作系统打印机驱动安装配置](3/windows10cao-zuo-xi-tong-da-yin-ji-qu-dong-an-zhuang-pei-zhi.md)
+  * [3.2 Windows10操作系统打印机驱动安装配置](3/windows10cao-zuo-xi-tong-da-yin-ji-qu-dong-an-zhuang-pei-zhi.md)
   * [MacBook OS操作系统打印机驱动安装配置](3/3.md)
     * 3 从Time Machine备份恢复
 * [四、MacOS下Time Machine使用指导](4.md)
