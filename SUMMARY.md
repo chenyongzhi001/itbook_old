@@ -7,7 +7,7 @@
 * [三、办公室打印配置方法](3.md)
   * [3.1 Windows7操作系统打印机驱动安装配置](3/1.md)
   * [3.2 Windows10操作系统打印机驱动安装配置](3/windows10cao-zuo-xi-tong-da-yin-ji-qu-dong-an-zhuang-pei-zhi.md)
-  * [MacBook OS操作系统打印机驱动安装配置](3/3.md)
+  * [3.3 MacBook OS操作系统打印机驱动安装配置](3/3.md)
   * MacOS Sierra 10.12.4及以上版本打印机配置指导
 * [四、MacOS下Time Machine使用指导](4.md)
   * [1 Time Machine 基础配置](4/1.md)
