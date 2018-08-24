@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
-* 2
+* [2](2.md)
 * 3
 * 4
 * 5
