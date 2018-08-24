@@ -8,6 +8,8 @@
   * [Windows7操作系统打印机驱动安装配置](3/1.md)
   * [Windows10操作系统打印机驱动安装配置](3/windows10cao-zuo-xi-tong-da-yin-ji-qu-dong-an-zhuang-pei-zhi.md)
   * [MacBook OS操作系统打印机驱动安装配置](3/3.md)
-* [4](4.md)
+* [四、MacOS下Time Machine使用指导](4.md)
+  * [1 Time Machine 基础配置](4/1.md)
 * [5](5.md)
+* 6
 
