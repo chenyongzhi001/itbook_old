@@ -17,6 +17,6 @@
   * [5.1 windows7系统配置VPN指导](5/1.md)
   * [5.2 windows10系统配置VPN指导](5/2.md)
   * [5.3 MacOS 平台VPN配置指导](5/3.md)
-* 6
+* [六、Outlook邮箱客户端配置](6.md)
 * 1
 
