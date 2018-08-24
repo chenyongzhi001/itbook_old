@@ -15,7 +15,7 @@
   * [4.3 从Time Machine备份恢复](4/3-cong-time-machine-bei-fen-hui-fu.md)
 * [五、内网vpn配置指导](5.md)
   * [5.1 windows7系统配置VPN指导](5/1.md)
-  * [2](5/2.md)
+  * [5.2 windows10系统配置VPN指导](5/2.md)
   * 3
 * 6
 * 1
