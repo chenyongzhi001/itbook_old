@@ -19,6 +19,6 @@
   * [5.3 MacOS 平台VPN配置指导](5/3.md)
 * [六、Outlook邮箱客户端配置](6.md)
   * [6.1 windows平台outlook邮箱客户端](6/1.md)
-  * 2
+  * [6.2 macOS 平台配置outlook邮箱客户端](6/2.md)
 * [七、共享盘使用指导](1.md)
 
