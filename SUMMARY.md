@@ -33,6 +33,6 @@
   * [9.4 扫描到指定邮箱](11/94-sao-miao-dao-zhi-ding-you-xiang.md)
   * [9.5 删除打印任务](11/95-shan-chu-da-yin-ren-wu.md)
 * [手机访问邮箱](10.md)
-* [12](12.md)
+* [windows7配置无线网络认证](12.md)
 * 1
 
