@@ -34,5 +34,5 @@
   * [9.5 删除打印任务](11/95-shan-chu-da-yin-ren-wu.md)
 * [手机访问邮箱](10.md)
 * [windows7配置无线网络认证](12.md)
-* AVAYA 电话配置
+* [AVAYA 电话配置](avaya-dian-hua-pei-zhi.md)
 
