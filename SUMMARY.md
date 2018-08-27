@@ -32,7 +32,7 @@
   * [9.3 双面复印（身份证）](11/93-shuang-mian-fu-yin-ff08-shen-fen-zheng-ff09.md)
   * [9.4 扫描到指定邮箱](11/94-sao-miao-dao-zhi-ding-you-xiang.md)
   * [9.5 删除打印任务](11/95-shan-chu-da-yin-ren-wu.md)
-* [10](10.md)
+* [手机访问邮箱](10.md)
 * [12](12.md)
 * 1
 
