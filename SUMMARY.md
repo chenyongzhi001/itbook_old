@@ -40,4 +40,5 @@
 * [OFFICE软件安装](officeruan-jian-an-zhuang.md)
 * [日常软件安装](ri-chang-ruan-jian-an-zhuang.md)
 * [iTunes备份](itunesbei-fen.md)
+* [jumpserver权限申请流程](jumpserverquan-xian-shen-qing-liu-cheng.md)
 
