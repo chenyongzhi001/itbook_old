@@ -36,4 +36,5 @@
 * [windows7配置无线网络认证](12.md)
 * [AVAYA 电话配置](avaya-dian-hua-pei-zhi.md)
 * [thinkpad小红点](thinkpadxiao-hong-dian.md)
+* [MACBOOK触摸板设置](macbookhong-mo-ban-she-zhi.md)
 
