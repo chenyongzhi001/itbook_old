@@ -43,4 +43,5 @@
 * [jumpserver权限申请流程](jumpserverquan-xian-shen-qing-liu-cheng.md)
 * [Chrome下配置switchysharp代理](chromexia-pei-zhi-switchysharp-dai-li.md)
 * [WIFI](wifi.md)
+* [google查看密码](googlecha-kan-mi-ma.md)
 
