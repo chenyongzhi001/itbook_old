@@ -37,4 +37,5 @@
 * [AVAYA 电话配置](avaya-dian-hua-pei-zhi.md)
 * [thinkpad小红点](thinkpadxiao-hong-dian.md)
 * [MACBOOK触摸板设置](macbookhong-mo-ban-she-zhi.md)
+* [OFFICE软件安装](officeruan-jian-an-zhuang.md)
 
