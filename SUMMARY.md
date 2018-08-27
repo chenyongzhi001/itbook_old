@@ -39,4 +39,5 @@
 * [MACBOOK触摸板设置](macbookhong-mo-ban-she-zhi.md)
 * [OFFICE软件安装](officeruan-jian-an-zhuang.md)
 * [日常软件安装](ri-chang-ruan-jian-an-zhuang.md)
+* [iTunes备份](itunesbei-fen.md)
 
