@@ -30,6 +30,7 @@
   * [9.1 常见问题](11/1.md)
   * [9.2 复印扫描功能](11/92.md)
   * [9.3 双面复印（身份证）](11/93-shuang-mian-fu-yin-ff08-shen-fen-zheng-ff09.md)
+  * [9.4 扫描到指定邮箱](11/94-sao-miao-dao-zhi-ding-you-xiang.md)
 * [10](10.md)
 * [12](12.md)
 * 1
