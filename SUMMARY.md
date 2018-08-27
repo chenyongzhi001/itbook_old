@@ -42,4 +42,5 @@
 * [iTunes备份](itunesbei-fen.md)
 * [jumpserver权限申请流程](jumpserverquan-xian-shen-qing-liu-cheng.md)
 * [Chrome下配置switchysharp代理](chromexia-pei-zhi-switchysharp-dai-li.md)
+* [WIFI](wifi.md)
 
