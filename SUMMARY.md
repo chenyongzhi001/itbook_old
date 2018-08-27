@@ -35,4 +35,5 @@
 * [手机访问邮箱](10.md)
 * [windows7配置无线网络认证](12.md)
 * [AVAYA 电话配置](avaya-dian-hua-pei-zhi.md)
+* [thinkpad小红点](thinkpadxiao-hong-dian.md)
 
