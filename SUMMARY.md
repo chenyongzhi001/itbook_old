@@ -36,7 +36,7 @@
 * [十一、windows7配置无线网络认证](12.md)
 * [十二、AVAYA电话配置指导](avaya-dian-hua-pei-zhi.md)
 * [十三、Thinkpad系统笔记本关闭触摸板](thinkpadxiao-hong-dian.md)
-* [MACBOOK触摸板设置](macbookhong-mo-ban-she-zhi.md)
+* [十四、MacBook触摸板使用](macbookhong-mo-ban-she-zhi.md)
 * [OFFICE软件安装](officeruan-jian-an-zhuang.md)
 * [日常软件安装](ri-chang-ruan-jian-an-zhuang.md)
 * [iTunes备份](itunesbei-fen.md)
