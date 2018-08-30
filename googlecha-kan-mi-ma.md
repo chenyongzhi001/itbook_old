@@ -1,4 +1,4 @@
-# 第二十一查看Chrome浏览器中保存的密码 {#第二十一查看chrome浏览器中保存的密码}
+# 二十一、查看Chrome浏览器中保存的密码 {#第二十一查看chrome浏览器中保存的密码}
 
 当你使用Google谷歌Chrome浏览器登陆网站的时候都会看到这个框框弹出来，那么我现在就教你怎么查看你已经保存的账号密码的位置和怎么删除已保存的账号密码。![](https://ws4.sinaimg.cn/large/006tKfTcly1fj305t0xiwj30z20dzdh5.jpg)1 首先打开你的Chrome浏览器，点击右上角的三个圆点图标。（事例中用的的hrome版本为 57.0.2987.133）![](https://ws1.sinaimg.cn/large/006tKfTcly1fj306c8plfj30me09dmxy.jpg)
 
