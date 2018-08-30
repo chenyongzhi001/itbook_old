@@ -40,7 +40,7 @@
 * [十五、微软office365安装指导](officeruan-jian-an-zhuang.md)
 * [十六、日常办公软件安装](ri-chang-ruan-jian-an-zhuang.md)
 * [十七、windows平台Itunes软件更换备份路径](itunesbei-fen.md)
-* [jumpserver权限申请流程](jumpserverquan-xian-shen-qing-liu-cheng.md)
+* [十八、jumpserver权限申请流程](jumpserverquan-xian-shen-qing-liu-cheng.md)
 * [Chrome下配置switchysharp代理](chromexia-pei-zhi-switchysharp-dai-li.md)
 * [WIFI](wifi.md)
 * [google查看密码](googlecha-kan-mi-ma.md)
