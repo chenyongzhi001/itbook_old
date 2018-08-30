@@ -34,7 +34,7 @@
   * [9.5 删除打印任务](11/95-shan-chu-da-yin-ren-wu.md)
 * [十、公司办公邮箱WEB版免密码登录](10.md)
 * [十一、windows7配置无线网络认证](12.md)
-* [AVAYA 电话配置](avaya-dian-hua-pei-zhi.md)
+* [十二、AVAYA电话配置指导](avaya-dian-hua-pei-zhi.md)
 * [thinkpad小红点](thinkpadxiao-hong-dian.md)
 * [MACBOOK触摸板设置](macbookhong-mo-ban-she-zhi.md)
 * [OFFICE软件安装](officeruan-jian-an-zhuang.md)
