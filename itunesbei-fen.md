@@ -1,4 +1,4 @@
-# 第十七章windows平台Itunes软件更换备份路径 {#第十七章windows平台itunes软件更换备份路径}
+# 十七、windows平台Itunes软件更换备份路径 {#第十七章windows平台itunes软件更换备份路径}
 
 前期准备：拷贝Junction文件到本地，文件路径：\192.168.10.33\Share\共享\日常软件 for Windows\其它 1 下载Junction文件，解压后将Junction.exe复制粘贴到Windows目录下![](https://ws3.sinaimg.cn/large/006tKfTcly1fj2zqs6pa1j31c20q2n3t.jpg)
 
