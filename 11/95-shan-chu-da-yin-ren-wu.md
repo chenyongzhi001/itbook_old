@@ -1,4 +1,4 @@
-# 2.0删错多余打印任务 {#20删错多余打印任务}
+# 9.5 删除多余打印任务 {#20删错多余打印任务}
 
 1在触摸板选择”认证设备”与“访问”选项，然后刷卡进入打印机主菜单。![](https://ws2.sinaimg.cn/large/006tNc79ly1fj30tkkqcxj31c20jy79c.jpg)2进入打印机菜单后，选择右侧物理按键“菜单”按钮。![](https://ws3.sinaimg.cn/large/006tNc79ly1fj30u2z0ckj31c20lt7ae.jpg)3选择“用户BOX”选项![](https://ws2.sinaimg.cn/large/006tNc79ly1fj30ud90mhj31c20ixtcf.jpg)
 
