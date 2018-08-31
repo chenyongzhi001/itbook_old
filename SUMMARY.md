@@ -18,7 +18,7 @@
   * [5.2 windows10系统配置VPN指导](5/2.md)
   * [5.3 MacOS 平台VPN配置指导](5/3.md)
 * [六、Outlook邮箱客户端配置](6.md)
-  * [6.1 windows平台outlook邮箱客户端](6/1.md)
+  * [6.1 Windows平台Outlook邮箱客户端](6/1.md)
   * [6.2 MacOS 平台配置Outlook邮箱客户端](6/2.md)
 * [七、群晖共享盘使用指导](8.md)
   * [7.1 内网映射驱动器访问](8/11.md)
