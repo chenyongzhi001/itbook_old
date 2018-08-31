@@ -37,7 +37,7 @@
 * [十二、AVAYA电话配置指导](avaya-dian-hua-pei-zhi.md)
 * [十三、Thinkpad系统笔记本关闭触摸板](thinkpadxiao-hong-dian.md)
 * [十四、MacBook触摸板使用](macbookhong-mo-ban-she-zhi.md)
-* [十五、微软office365安装指导](officeruan-jian-an-zhuang.md)
+* [十五、微软Office365安装指导](officeruan-jian-an-zhuang.md)
 * [十六、日常办公软件安装](ri-chang-ruan-jian-an-zhuang.md)
 * [十七、Windows平台Itunes软件更换备份路径](itunesbei-fen.md)
 * [十八、Jumpserver权限申请流程](jumpserverquan-xian-shen-qing-liu-cheng.md)
