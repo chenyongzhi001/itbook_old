@@ -12,7 +12,7 @@
 
 3.在“添加VPN”窗口配置信息如下：名称：SYDVPN、类型：IPSec Xauth PSK、服务器地址：ciscovpn.soydai.cn 、IPSec标识符：EZVPN 、预共享密钥：cisco 、用户及密码：**输入自己的AD域帐号及密码即可**。选择右上角“确定”按钮，添加VPN设置完成。
 
-![](/assets/import55.png)
+![](/assets/import59.png)
 
 1. VPN添加成功，在“网络和连接”处会增加VPN功能选项。选择“开关”按钮，即可登录VPN
 
