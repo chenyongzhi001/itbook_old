@@ -1,7 +1,6 @@
 {
 
 "plugins": [
-"theme-faq","-lunr","-search","search-plus" ]
-
-
+"spliter","theme-faq","-lunr","-search","search-plus" ]
+"language" : "zh-hans",
 }
