@@ -48,5 +48,5 @@
 * [二十一、查看Chrome浏览器中保存的密码](googlecha-kan-mi-ma.md)
 * [二十二、使用注册表修改IE主页](er-shi-er-3001-shi-yong-zhu-ce-biao-xiu-gai-ie-zhu-ye.md)
 * [二十三、怎么去掉word文档自动编号之后的空格](er-shi-san-3001-zen-yao-qu-diao-word-wen-dang-zi-dong-bian-hao-zhi-hou-de-kong-ge.md)
-* [二十四、OA系统会议室预订方法](er-shi-si-3001-oa-hui-yi-shi-yu-ding-fang-fa.md)
+* [二十四、OA系统会议室预定方法](er-shi-si-3001-oa-hui-yi-shi-yu-ding-fang-fa.md)
 
