@@ -21,6 +21,7 @@
 * [六、Outlook邮箱客户端配置](6.md)
   * [6.1 Windows平台Outlook邮箱客户端](6/1.md)
   * [6.2 MacOS 平台配置Outlook邮箱客户端](6/2.md)
+  * [6.3 如何添加公邮](6/63-ru-he-tian-jia-gong-you.md)
 * [七、群晖共享盘使用指导](8.md)
   * [7.1 内网映射驱动器访问](8/11.md)
   * [7.2 通过web网页访问](8/22.md)
