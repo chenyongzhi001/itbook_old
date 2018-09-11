@@ -14,11 +14,11 @@
 
 ![](/assets/import59.png)
 
-1. VPN添加成功，在“网络和连接”处会增加VPN功能选项。选择“开关”按钮，即可登录VPN
+4. VPN添加成功，在“网络和连接”处会增加VPN功能选项。选择“开关”按钮，即可登录VPN
 
 ![](/assets/import57.png)
 
-1. 在下拉菜单选择VPN可以看到连接的VPN状态及时长
+5.在下拉菜单选择VPN可以看到连接的VPN状态及时长
 
 ![](/assets/import58.png)
 
