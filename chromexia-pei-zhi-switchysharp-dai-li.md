@@ -9,9 +9,10 @@
 3. 将拷贝到本地的SwitchyOmega.crx文件拖拽到Chrome扩展程序窗口。  
    ![](https://ws1.sinaimg.cn/large/006tKfTcly1fj300qjgxxj31c20yggqg.jpg)
 
-4. 在填出确认添加窗口时，选择“添加扩展程序”按钮完成添加。
+4. 在填出确认添加窗口时，选择“添加扩展程序”按钮完成添加。  
    ![](https://ws2.sinaimg.cn/large/006tKfTcly1fj30174pgkj31c20yg7ag.jpg)
-5. 根据业务实际需求进行配置代理地址即可。
+
+5. 根据业务实际需求进行配置代理地址即可，具体可以联系运维组。
 
 
 
