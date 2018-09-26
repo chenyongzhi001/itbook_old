@@ -35,7 +35,7 @@
   * [9.4 扫描到指定邮箱](11/94-sao-miao-dao-zhi-ding-you-xiang.md)
   * [9.5 删除打印任务](11/95-shan-chu-da-yin-ren-wu.md)
 * [十、公司办公邮箱WEB版免密码登录](10.md)
-* [十一、windows7配置无线网络认证](12.md)
+* [十一、Windows7配置无线网络认证](12.md)
 * [十二、AVAYA电话配置指导](avaya-dian-hua-pei-zhi.md)
 * [十三、Thinkpad系统笔记本关闭触摸板](thinkpadxiao-hong-dian.md)
 * [十四、MacBook触摸板使用](macbookhong-mo-ban-she-zhi.md)
